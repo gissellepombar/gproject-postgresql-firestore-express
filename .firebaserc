@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "postgres-firestore-gp-deploy"
+  }
+}
